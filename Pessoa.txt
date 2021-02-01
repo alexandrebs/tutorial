@@ -6,3 +6,6 @@ provável conflito
 git stash
 git develop
 testando pull request
+
+
+segundo commite, criação de oturo método
