@@ -11,6 +11,7 @@ testando pull request
 segundo commite, criação de oturo método
 
 
+
 refatoração
 
 outra alteração
@@ -21,3 +22,6 @@ SAF
 correção 1
 
 mais uma alteração
+
+refatoração
+
