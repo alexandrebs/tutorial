@@ -17,7 +17,7 @@ não ira pro commit
 >>>>>>> 4c32bb7 (Adicionando arquivo de configuracao)
 =======
 não ira pro commit
-
+outra alteração evolução master
 
 git develop
 >>>>>>> 74cb55a (enviando pro develot remoto)
