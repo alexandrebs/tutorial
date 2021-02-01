@@ -1,6 +1,7 @@
-alterações principais
+﻿alterações principais
 alteração no featureListarNotas
 alterações na branch local
+provável conflito
 
 git stash
 git develop
