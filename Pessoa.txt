@@ -3,3 +3,5 @@ alteração no featureListarNotas
 alterações na branch local
 
 git stash
+
+git develop
