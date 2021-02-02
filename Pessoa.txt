@@ -55,6 +55,7 @@ alteração no featureListarNotas
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 62625b8 (commit 1)
 =======
 git stash
@@ -89,3 +90,7 @@ testando pull request
 >>>>>>> 121c763 (mensagem)
 =======
 >>>>>>> 5a8cf9a (mensagem)
+=======
+alterações na branch local
+
+>>>>>>> 8d89754 (commit 2)
