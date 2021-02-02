@@ -4,6 +4,7 @@ alteração feature main
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 commit master devolop
 
 
@@ -23,3 +24,6 @@ criação metodo SAF 1
 =======
 pull 01 develop
 >>>>>>> ee93e6a (correÃ§Ã£o 01 pull develop)
+=======
+commit master devolop
+>>>>>>> a372bab (mensagem)

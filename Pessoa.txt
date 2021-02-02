@@ -1,3 +1,4 @@
+
 alterações principais
 alteração no featureListarNotas
 <<<<<<< HEAD
@@ -51,11 +52,19 @@ alteração no featureListarNotas
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 62625b8 (commit 1)
 =======
 git stash
 >>>>>>> 64fe3ca (gerando versÃ£o)
 =======
+=======
+ï»¿alteraÃ§Ãµes principais
+alteraÃ§Ã£o no featureListarNotas
+alteraÃ§Ãµes na branch local
+provÃ¡vel conflito
+
+>>>>>>> a372bab (mensagem)
 git stash
 
 <<<<<<< HEAD
