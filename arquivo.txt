@@ -3,6 +3,7 @@ alteração no MAIN
 alteração feature main
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 commit master devolop
 
 
@@ -12,3 +13,9 @@ pull 01 develop
 =======
 commit master devolop
 >>>>>>> a372bab (mensagem)
+=======
+commit master devolop
+
+
+criação metodo SAF 1
+>>>>>>> 4122470 (nova funcionalidade)
