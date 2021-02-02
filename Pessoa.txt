@@ -11,6 +11,11 @@ testando pull request
 git develop
 testando pull request
 
+<<<<<<< HEAD
 >>>>>>> 121c763 (mensagem)
 =======
 >>>>>>> 5a8cf9a (mensagem)
+=======
+alterações na branch local
+
+>>>>>>> 8d89754 (commit 2)
