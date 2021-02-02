@@ -58,5 +58,13 @@ git stash
 =======
 git stash
 
+<<<<<<< HEAD
 testando pull request
 >>>>>>> 9078b90 (tste)
+=======
+
+testando pull request
+
+git develop
+
+>>>>>>> d9664a9 (mensagem)
