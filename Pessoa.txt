@@ -1,6 +1,12 @@
+
 altera��es principais
 
 altera��o no featureListarNotas
+
+﻿alterações principais
+alteração no featureListarNotas
+alterações na branch local
+provável conflito
 
 git stash
 
