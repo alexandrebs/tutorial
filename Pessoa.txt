@@ -52,6 +52,7 @@ alteração no featureListarNotas
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 62625b8 (commit 1)
 =======
 git stash
@@ -76,3 +77,5 @@ testando pull request
 git develop
 
 >>>>>>> d9664a9 (mensagem)
+=======
+>>>>>>> bac021a (mensagem)
