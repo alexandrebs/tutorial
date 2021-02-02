@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 não ira pro commit
 outra alteração evolução master
 <<<<<<< HEAD
@@ -10,3 +11,6 @@ git develop
 
 commit develop 
 >>>>>>> b3e7314 (pull alteraÃ§Ã£o develop)
+=======
+não ira pro commit
+>>>>>>> 4c32bb7 (Adicionando arquivo de configuracao)
