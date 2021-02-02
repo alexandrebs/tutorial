@@ -7,6 +7,7 @@ testando pull request
 =======
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 git develop
@@ -45,3 +46,7 @@ mais uma alteração
 refatoração
 
 >>>>>>> e1b64fb (rebase)
+=======
+altera��o no featureListarNotas
+
+>>>>>>> 62625b8 (commit 1)
