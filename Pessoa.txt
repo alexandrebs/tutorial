@@ -93,4 +93,10 @@ testando pull request
 =======
 alterações na branch local
 
+<<<<<<< HEAD
 >>>>>>> 8d89754 (commit 2)
+=======
+git stash
+git develop
+testando pull request
+>>>>>>> d34e01b (commit 3)
