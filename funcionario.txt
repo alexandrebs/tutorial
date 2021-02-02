@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 alteração teste
 
 
@@ -14,3 +15,6 @@ correção 01
 
 
 alteraçao no master
+=======
+alteração teste
+>>>>>>> 62625b8 (commit 1)
