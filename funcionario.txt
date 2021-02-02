@@ -12,6 +12,7 @@ alteraçao no master
 
 ajuste edição de nota fiscal
 
+<<<<<<< HEAD
 
 primeira alteração git correção
 <<<<<<< HEAD
@@ -40,3 +41,8 @@ alteração teste
 
 gerando versão para produção
 >>>>>>> 525869b (gerando versÃ£o)
+=======
+gerando versão para produção
+
+ajuste edição de nota fiscal
+>>>>>>> 2425834 (ajuste ediÃ§aÃµ de nota fiscal)
