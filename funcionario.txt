@@ -45,4 +45,10 @@ gerando versão para produção
 gerando versão para produção
 
 ajuste edição de nota fiscal
+<<<<<<< HEAD
 >>>>>>> 2425834 (ajuste ediÃ§aÃµ de nota fiscal)
+=======
+
+
+primeira alteração git correção
+>>>>>>> 7c3de13 (criaÃ§Ã£o de mÃ©todo)
