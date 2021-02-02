@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bcc458a (1)
 alteração teste
 gerando versão para produção
 <<<<<<< HEAD
@@ -67,4 +70,10 @@ correção 01
 
 
 alteraçao no master
+<<<<<<< HEAD
 >>>>>>> 2b82c9c (commite no master)
+=======
+=======
+alteração teste
+>>>>>>> 62625b8 (commit 1)
+>>>>>>> 7d79368 (commit)
