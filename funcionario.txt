@@ -17,4 +17,9 @@ primeira alteração git correção
 =======
 
 nova validação
+<<<<<<< HEAD
 >>>>>>> 4122470 (nova funcionalidade)
+=======
+
+correção 01
+>>>>>>> 5ccb6d5 (correÃ§aÃµ 01 feature)
