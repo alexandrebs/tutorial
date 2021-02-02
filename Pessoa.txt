@@ -6,8 +6,11 @@ git develop
 testando pull request
 =======
 
+<<<<<<< HEAD
 
 git develop
 testando pull request
 
 >>>>>>> 121c763 (mensagem)
+=======
+>>>>>>> 5a8cf9a (mensagem)
