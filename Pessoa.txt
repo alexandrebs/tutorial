@@ -2,8 +2,6 @@
 alteração no featureListarNotas
 alterações na branch local
 provável conflito
-
 git stash
 git develop
 testando pull request
-
