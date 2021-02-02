@@ -51,4 +51,9 @@ ajuste edição de nota fiscal
 
 
 primeira alteração git correção
+<<<<<<< HEAD
 >>>>>>> 7c3de13 (criaÃ§Ã£o de mÃ©todo)
+=======
+
+nova validação
+>>>>>>> 4122470 (nova funcionalidade)
