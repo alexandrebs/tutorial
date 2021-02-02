@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 altera��es principais
 altera��o no featureListarNotas
 <<<<<<< HEAD
@@ -45,3 +46,10 @@ mais uma alteração
 refatoração
 
 >>>>>>> e1b64fb (rebase)
+=======
+﻿alterações principais
+alteração no featureListarNotas
+alterações na branch local
+provável conflito
+
+>>>>>>> 8b30d170caafd3b76118ba879d68d49efa41b364
