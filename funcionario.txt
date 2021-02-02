@@ -1,7 +1,15 @@
 alteração teste
 gerando versão para produção
+<<<<<<< HEAD
 ajuste edição de nota fiscal
 primeira alteração git correção
 nova validação
 correção 01
 alteraçao no master
+=======
+
+ajuste edição de nota fiscal
+
+
+primeira alteração git correção
+>>>>>>> 7c3de13 (criaÃ§Ã£o de mÃ©todo)
