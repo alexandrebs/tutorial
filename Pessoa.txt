@@ -1,7 +1,5 @@
-﻿alterações principais
-alteração no featureListarNotas
-alterações na branch local
-provável conflito
+altera��es principais
+altera��o no featureListarNotas
 git stash
 git develop
 testando pull request
