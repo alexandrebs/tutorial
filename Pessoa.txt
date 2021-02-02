@@ -1,5 +1,13 @@
 alterações principais
 alteração no featureListarNotas
+<<<<<<< HEAD
 git stash
 git develop
 testando pull request
+=======
+
+
+git develop
+testando pull request
+
+>>>>>>> 121c763 (mensagem)
