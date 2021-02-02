@@ -22,4 +22,10 @@ nova validação
 =======
 
 correção 01
+<<<<<<< HEAD
 >>>>>>> 5ccb6d5 (correÃ§aÃµ 01 feature)
+=======
+
+
+alteraçao no master
+>>>>>>> 2b82c9c (commite no master)
