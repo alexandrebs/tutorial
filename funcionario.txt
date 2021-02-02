@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 alteração teste
 gerando versão para produção
 <<<<<<< HEAD
@@ -33,3 +34,9 @@ alteraçao no master
 =======
 alteração teste
 >>>>>>> 62625b8 (commit 1)
+=======
+alteração teste
+
+
+gerando versão para produção
+>>>>>>> 525869b (gerando versÃ£o)
