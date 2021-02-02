@@ -9,6 +9,7 @@ commit master devolop
 
 criação metodo SAF 1
 
+<<<<<<< HEAD
 pull 01 develop
 =======
 commit master devolop
@@ -19,3 +20,6 @@ commit master devolop
 
 criação metodo SAF 1
 >>>>>>> 4122470 (nova funcionalidade)
+=======
+pull 01 develop
+>>>>>>> ee93e6a (correÃ§Ã£o 01 pull develop)
