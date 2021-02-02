@@ -34,6 +34,7 @@ alterações na branch local
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 8d89754 (commit 2)
 =======
 git stash
@@ -41,10 +42,13 @@ git develop
 testando pull request
 >>>>>>> d34e01b (commit 3)
 =======
+=======
+>>>>>>> e1b64fb (rebase)
 mais uma alteraÃ§Ã£o
 
 refatoraÃ§Ã£o
 
+<<<<<<< HEAD
 >>>>>>> e1b64fb (rebase)
 =======
 alteração no featureListarNotas
@@ -100,3 +104,5 @@ git stash
 git develop
 testando pull request
 >>>>>>> d34e01b (commit 3)
+=======
+>>>>>>> e1b64fb (rebase)
