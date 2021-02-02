@@ -50,7 +50,13 @@ refatoraÃ§Ã£o
 alteração no featureListarNotas
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 62625b8 (commit 1)
 =======
 git stash
 >>>>>>> 64fe3ca (gerando versÃ£o)
+=======
+git stash
+
+testando pull request
+>>>>>>> 9078b90 (tste)
